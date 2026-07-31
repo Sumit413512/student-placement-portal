@@ -265,8 +265,7 @@ http://localhost:8000
 #  Contact
 
 Developer: Sumit Jagtap
-
- Email: skj1200519@gmail.com
+Email: skj1200519@gmail.com
 
 ---
 
