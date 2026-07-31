@@ -169,15 +169,6 @@ PlaceAI/
 
 ---
 
-#  Demo
-
- Product Demo
-
-(Add your YouTube or Google Drive demo video link here)
-
-Example:
-
-https://youtu.be/your-demo-link
 
 ---
 
