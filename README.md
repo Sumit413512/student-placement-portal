@@ -70,7 +70,7 @@ PlaceAI automates the complete campus recruitment lifecycle by providing:
 
 ---
 
-## 🏫 Placement Cell Dashboard
+##  Placement Cell Dashboard
 
 - Student Database
 - Recruiter Management
@@ -169,7 +169,7 @@ PlaceAI/
 
 ---
 
-# 📽 Demo
+#  Demo
 
  Product Demo
 
@@ -181,17 +181,7 @@ https://youtu.be/your-demo-link
 
 ---
 
-#  Screenshots
 
-Add screenshots of:
-
-- Login Page
-- Student Dashboard
-- Recruiter Dashboard
-- Admin Dashboard
-- Job Posting
-- Skill Matching
-- Analytics Dashboard
 
 ---
 
@@ -274,13 +264,9 @@ http://localhost:8000
 
 #  Contact
 
-**Developer:** Sumit Jagtap
+Developer: Sumit Jagtap
 
- Email: your-email@example.com
-
- LinkedIn: https://linkedin.com/in/your-profile
-
- Portfolio: https://your-portfolio.com
+ Email: skj1200519@gmail.com
 
 ---
 
